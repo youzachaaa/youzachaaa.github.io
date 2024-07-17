@@ -10,18 +10,21 @@
             "name": "기쁨",
             "title": "기쁨",
             "explain": "당신은 지금 행복해 보이네요!",
+            "celeb": "",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
             "name": "슬픔",
             "title": "슬픔",
             "explain": "당신은 지금 슬퍼 보이네요!",
+            "celeb": "",
             "color": "rgba(251, 176, 59, 1)"
         },
         {
             "name": "분노",
             "title": "분노",
             "explain": "당신은 지금 화나 보이네요!",
+            "celeb": "",
             "color": "rgba(265, 100, 50, 1)"
         }
     ]
